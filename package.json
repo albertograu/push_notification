@@ -1,0 +1,11 @@
+{
+  "name": "push_notification",
+  "version": "1.0.0",
+  "description": "Push notification using service workers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Grau",
+  "license": "ISC"
+}
