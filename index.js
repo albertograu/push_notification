@@ -29,7 +29,7 @@ app.post('/subscribe', (req, res) => {
 
     // Create payload
     const payload = JSON.stringify({
-        title: 'Push Test'
+        title: 'Caudalie USA'
     });
 
     // Pass object to sendNotification
